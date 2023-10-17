@@ -1,7 +1,7 @@
 ### hi there 🤠
 
-- 💻 software development intern at GE aviation
-- 🔭 studying my sixth semester of software engineering
+- 💻 software engineer @Oracle
+- 🔭 software engineering graduate
 - 🌱 learning web development and data science
 - ⌨️ hands-on vue.js, ionic framework, node.js, spring boot, python, SQL...
 <!-- - 👯 I’m looking to collaborate on ... -->
